@@ -1,4 +1,1 @@
-streamlit
-pandas
-pygwalker
-streamlit-components-v1
+pygwalker==0.4.9.15
