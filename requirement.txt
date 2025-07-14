@@ -1,0 +1,4 @@
+streamlit
+pandas
+pygwalker
+streamlit-components-v1
